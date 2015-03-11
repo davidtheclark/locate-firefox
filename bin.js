@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
-var locateChrome = require('./');
+var locateFirefox = require('./');
 
-locateChrome().then(function(r) {
+locateFirefox().then(function(r) {
   console.log(r);
 });
