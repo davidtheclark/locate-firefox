@@ -1,0 +1,37 @@
+{
+  "name": "locate-firefox",
+  "version": "0.1.0",
+  "description": "Find Firefox on your system",
+  "main": "index.js",
+  "bin": {
+    "locate-firefox": "bin.js"
+  },
+  "license": "MIT",
+  "scripts": {},
+  "author": {
+    "name": "David Clark",
+    "email": "david.dave.clark@gmail.com",
+    "url": "http://davidtheclark.com"
+  },
+  "dependencies": {
+    "es6-promise": "^2.0.0",
+    "queue-async": "^1.0.0",
+    "userhome": "^1.0.0",
+    "which": "^1.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/davidtheclark/locate-firefox.git"
+  },
+  "keywords": [
+    "firefox",
+    "browser",
+    "locate",
+    "find"
+  ],
+  "homepage": "https://github.com/davidtheclark/locate-firefox",
+  "bugs": {
+    "url": "https://github.com/davidtheclark/locate-firefox/issues"
+  }
+}
