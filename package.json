@@ -1,6 +1,6 @@
 {
   "name": "locate-firefox",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Find Firefox on your system",
   "main": "index.js",
   "bin": {
