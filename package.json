@@ -16,8 +16,7 @@
   "dependencies": {
     "es6-promise": "^2.0.0",
     "queue-async": "^1.0.0",
-    "userhome": "^1.0.0",
-    "which": "^1.0.0"
+    "userhome": "^1.0.0"
   },
   "devDependencies": {},
   "repository": {
